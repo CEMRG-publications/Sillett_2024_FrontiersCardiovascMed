@@ -1,0 +1,3 @@
+/home/csi20/Projects_Local/AreaStrain/build/CMakeFiles/AreaStrain.dir
+/home/csi20/Projects_Local/AreaStrain/build/CMakeFiles/edit_cache.dir
+/home/csi20/Projects_Local/AreaStrain/build/CMakeFiles/rebuild_cache.dir

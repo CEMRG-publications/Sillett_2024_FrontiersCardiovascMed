@@ -1,0 +1,14 @@
+{
+	"anterior":{
+		"azimuth": -60.0,
+		"elevation": 90.0
+	},
+	"posterior":{
+		"azimuth": 120.0,
+		"elevation": -90.0
+	}
+    "default":{
+		"azimuth": 0.0,
+		"elevation": 0.0
+	}
+}

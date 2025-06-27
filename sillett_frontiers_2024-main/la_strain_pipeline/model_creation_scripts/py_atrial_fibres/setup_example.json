@@ -1,0 +1,16 @@
+{
+    "LA": {
+        "tags": [
+            3
+        ],
+        "CV": 0.9,
+        "anisotropy": 0.4
+    },
+    "RA": {
+        "tags": [
+            4
+        ],
+        "CV": 0.9,
+        "anisotropy": 0.4
+    }
+}

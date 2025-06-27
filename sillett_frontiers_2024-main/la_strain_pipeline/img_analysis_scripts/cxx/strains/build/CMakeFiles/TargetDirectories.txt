@@ -1,0 +1,3 @@
+/home/csi20/Projects_Local/strains/build/CMakeFiles/strains.dir
+/home/csi20/Projects_Local/strains/build/CMakeFiles/edit_cache.dir
+/home/csi20/Projects_Local/strains/build/CMakeFiles/rebuild_cache.dir
